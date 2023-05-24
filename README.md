@@ -1,1 +1,1 @@
-# GitChat
+# lsgc (low speed git chat)
